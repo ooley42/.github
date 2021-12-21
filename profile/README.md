@@ -4,12 +4,10 @@
       <img src="https://raw.githubusercontent.com/ooley42/.github/main/profile/pill.png" />
     </a>
   </p>
-  <h1 align="center">OOLEY</h1>
-
   <h2 align="center">Свободные мастера и открытые мастерские</h2>
 
   <p align="center">
-    Проект развития открытых мастерских как культурного явления.
+    Проект развития открытых мастерских как общественного и культурного явления
   </p>
 
 <p align="center" >

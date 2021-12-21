@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="www.chromatone.center" target="_blank">
-      <img src="https://raw.githubusercontent.com/ooley42/ooley.ru/master/output/post/2014/idea/images/Bold-3D.jpg" />
+      <img src="https://raw.githubusercontent.com/ooley42/.github/main/profile/pill.png" />
     </a>
   </p>
   <h1 align="center">OOLEY</h1>
